@@ -32,6 +32,8 @@ https://thinkster.io/a-better-way-to-learn-swift
 
 https://www.javatpoint.com/swift-tutorial
 
+https://codewithchris.com/swift-tutorial-complete/
+
 ### Swift Official
 https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 
